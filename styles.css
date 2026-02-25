@@ -5,7 +5,7 @@ font-family: Arial, sans-serif;
 color: #333;
 
   background-image: url('Mogende loan service logo.png'); /* path to your image */
-  background-size: cover;       /* scales image to cover entire screen */
+  background-size: 800px auto;  /* fixed width, auto height */
   background-position: center;  /* keeps image centered */
   background-repeat: no-repeat; /* prevents tiling */
 
